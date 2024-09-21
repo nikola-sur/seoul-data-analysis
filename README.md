@@ -15,22 +15,22 @@ All details can be found in the two Jupyter notebooks. Here we provide some scre
 ___
 
 <p align="center">
-  <img src="img/correlations.png" width="60%">
+  <img src="img/correlations.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/rentals_by_hour.png" width="60%">
+  <img src="img/rentals_by_hour.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/rentals_by_temperature.png" width="60%">
+  <img src="img/rentals_by_temperature.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/RF_features.png" width="60%">
+  <img src="img/RF_features.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/XGBoost_features.png" width="60%">
+  <img src="img/XGBoost_features.png" width="80%">
 </p>
 
