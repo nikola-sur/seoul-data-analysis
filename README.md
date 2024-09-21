@@ -1,4 +1,4 @@
-# seoul-data-analysis
+# Seoul Biking Data Analysis
 Analysis of the Seoul Biking Data - EDA, Feature Engineering, Model Training
 
 In this document we take a look at the Seoul Bike Data (https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand). See the [data license file](./data_license.md) for more information about the data.
